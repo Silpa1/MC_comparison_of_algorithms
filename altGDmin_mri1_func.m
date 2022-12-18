@@ -1,5 +1,6 @@
 function [X_MRI,Time_MRI]=altGDmin_mri1_func(kdata,b1c,samp,Xtrue)
 global r mk
+mk=[]
 tic;
 y=kdata;
 [nx,ny,nt,nc]=size(kdata);
