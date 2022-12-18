@@ -1,4 +1,5 @@
 function [X_MRI2,Time_MRI2]=altGDmin_mri1_func(kdata,b1c,samp)
+global nx ny mk m nt  r
 global r mk
 tic;
 y=kdata;
