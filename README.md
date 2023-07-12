@@ -15,3 +15,4 @@ Run Main_files_retrospective.m: This run all the 5 algorithms and calculate NMSE
 For datasets and questions contact email sbabu@iastate.edu, namrata@iastate.edu.
 
 If you are using our code please cite our paper: S. Babu, S. S. Nayer, S. G. Lingala and N. Vaswani, "Fast Low Rank Column-Wise Compressive Sensing For Accelerated Dynamic MRI," ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022, pp. 1346-1350, doi: 10.1109/ICASSP43922.2022.9747549.
+: Babu S, Lingala SG, Vaswani N. Fast low rank column-wise compressive sensing for accelerated dynamic MRI. IEEE transactions on computational imaging. 2023 Apr 17.
